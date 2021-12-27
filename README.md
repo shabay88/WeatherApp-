@@ -8,3 +8,5 @@ Simple weather app application with realisation:
 -Search by city name 
 
 -Adding new cities in tableview 
+
+-MVC architecture 
